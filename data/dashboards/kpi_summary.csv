@@ -1,0 +1,17 @@
+KPI_Category,KPI_Name,Current_Value,Target,Status
+Revenue,Total Revenue,"$182,936,738.12",Growing,✓
+Revenue,Total Profit,"$86,717,320.41",Growing,✓
+Revenue,Profit Margin %,47.4%,> 20%,✓
+Revenue,Avg Order Value,"$12,195.78",Growing,✓
+Operations,Total Orders,"15,000",Growing,✓
+Operations,Fulfillment Rate %,97.4%,> 95%,✓
+Operations,Stockout Rate %,5.2%,< 5%,⚠
+Inventory,Inventory Value,"$2,612,901,965.91",Optimized,⚠
+Inventory,Inventory Turnover,8.5x,8-12x,✓
+Inventory,Anomalies Detected,1000,< 5%,✓
+Supplier,On-Time Delivery %,26.5%,> 90%,✗
+Supplier,Avg Delivery Days,17.1,< 10,⚠
+Supplier,Delayed Orders %,73.5%,< 10%,✗
+Risk,Potential Savings,"$1,164,216.21",Maximize,✓
+Risk,High Risk Products,0,0,✓
+Risk,Critical Actions,0,0,✓

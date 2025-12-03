@@ -1,0 +1,2 @@
+project_name,completion_date,total_records_processed,products_analyzed,warehouses_analyzed,suppliers_analyzed,date_range,total_revenue,total_profit,potential_savings,anomalies_detected,high_risk_products,action_items_generated,forecasts_generated,dashboard_files_created
+Supply Chain Optimization with Predictive Analytics,2025-12-03,38000,50,10,20,2023-01-01 00:00:00 to 2025-11-30 00:00:00,"$182,936,738.12","$86,717,320.41","$1,164,216.21",1000,0,14,150,10

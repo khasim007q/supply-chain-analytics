@@ -1,0 +1,15 @@
+priority,category,product_id,product_name,action,current_stock,risk_score,estimated_impact
+HIGH,Stockout Prevention,P0022,Item_22,Review stock levels - Order 746 units if needed,0,0.562,"Prevent $316,212 in potential lost sales"
+HIGH,Stockout Prevention,P0010,Item_10,Review stock levels - Order 722 units if needed,196,0.51,"Prevent $80,795 in potential lost sales"
+HIGH,Stockout Prevention,P0015,Item_15,Review stock levels - Order 743 units if needed,170,0.486,"Prevent $151,371 in potential lost sales"
+HIGH,Stockout Prevention,P0043,Item_43,Review stock levels - Order 772 units if needed,89,0.486,"Prevent $329,358 in potential lost sales"
+HIGH,Stockout Prevention,P0041,Item_41,Review stock levels - Order 718 units if needed,101,0.483,"Prevent $236,506 in potential lost sales"
+HIGH,Quality Alert,P0013,Warehouse W08,Inspect storage conditions - Temp: 29.8°C,78,0.8,Prevent product quality issues
+HIGH,Quality Alert,P0012,Warehouse W09,Inspect storage conditions - Temp: 29.6°C,568,0.8,Prevent product quality issues
+HIGH,Quality Alert,P0028,Warehouse W03,Inspect storage conditions - Temp: 29.3°C,563,0.8,Prevent product quality issues
+MEDIUM,Supplier Review,S017,Supplier_Q,Review contract - On-time rate: 18.0%,0,0.643,Improve delivery reliability
+MEDIUM,Supplier Review,S011,Supplier_K,Review contract - On-time rate: 25.5%,0,0.644,Improve delivery reliability
+MEDIUM,Supplier Review,S007,Supplier_G,Review contract - On-time rate: 22.2%,0,0.667,Improve delivery reliability
+MEDIUM,Cost Optimization,P0038,Item_38,Optimize stock to 475 units,912,0.3,"Save $74,473.12/year"
+MEDIUM,Cost Optimization,P0017,Item_17,Optimize stock to 294 units,947,0.3,"Save $73,913.13/year"
+MEDIUM,Cost Optimization,P0023,Item_23,Optimize stock to 525 units,936,0.3,"Save $72,698.72/year"

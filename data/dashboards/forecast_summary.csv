@@ -1,0 +1,6 @@
+product_id,total_30day_forecast,avg_daily_forecast,product_name,category
+P0008,288.0,9.6,Item_8,Apparel
+P0016,102.0,3.4,Item_16,Furniture
+P0021,75.0,2.5,Item_21,Furniture
+P0023,408.0,13.6,Item_23,Food
+P0042,405.0,13.5,Item_42,Electronics

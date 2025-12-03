@@ -1,0 +1,2 @@
+Total_Products_Analyzed,High_Risk_Products,Medium_Risk_Products,Total_Potential_Savings,Inventory_Anomalies_Detected,Critical_Actions_Required,High_Priority_Actions,Preferred_Suppliers,Suppliers_Needing_Review,Scenario_1_Cost,Scenario_2_Impact,Scenario_3_Benefit,Top_Recommendation
+50,0,26,"$1,164,216.21",1000,0,8,5,5,"$215,124.12",$300.00,"$20,000.00",Implement automated reordering and negotiate with preferred suppliers
